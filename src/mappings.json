@@ -1,0 +1,46 @@
+[
+    {
+        "ocb_id": "SCADAASP_NUEVOCAUDAL",
+        "opcua_id": "ns=2;s=SCADA.ASP_NUEVO.CAUDAL.PresentValue"
+    },
+    {
+        "ocb_id": "SCADAASP_NUEVOCO2",
+        "opcua_id": "ns=2;s=SCADA.ASP_NUEVO.CO2.PresentValue"
+    },
+    {
+        "ocb_id": "SCADAASP_NUEVOINICIAR",
+        "opcua_id": "ns=2;s=SCADA.ASP_NUEVO.INICIAR.PresentValue"
+    },
+    {
+        "ocb_id": "A01",
+        "opcua_id": "ns=2;s=SCADA.ASP_NUEVO.OPC_A01.PresentValue"
+    },
+    {
+        "ocb_id": "AC_Phase-A_Current_value",
+        "opcua_id": "ns=2;s=SCADA.ASP_NUEVO.OPC_AC Phase-A Current value.PresentValue"
+    },
+    {
+        "ocb_id": "AC_Phase-B_Current_value",
+        "opcua_id": "ns=2;s=SCADA.ASP_NUEVO.OPC_AC Phase-B Current value.PresentValue"
+    },
+    {
+        "ocb_id": "AC_Phase-C_Current_value",
+        "opcua_id": "ns=2;s=SCADA.ASP_NUEVO.OPC_AC Phase-C Current value.PresentValue"
+    },
+    {
+        "ocb_id": "AC_Total_Current_value",
+        "opcua_id": "ns=2;s=SCADA.ASP_NUEVO.OPC_AC Total Current value.PresentValue"
+    },
+    {
+        "ocb_id": "AC_Voltage_L1",
+        "opcua_id": "ns=2;s=SCADA.ASP_NUEVO.OPC_AC Voltage L1.PresentValue"
+    },
+    {
+        "ocb_id": "AC_Voltage_L1-L2",
+        "opcua_id": "ns=2;s=SCADA.ASP_NUEVO.OPC_AC Voltage L1-L2.PresentValue"
+    },
+    {
+        "ocb_id": "AC_Voltage_L2",
+        "opcua_id": "ns=2;s=SCADA.ASP_NUEVO.OPC_AC Voltage L2.PresentValue"
+    }
+]
